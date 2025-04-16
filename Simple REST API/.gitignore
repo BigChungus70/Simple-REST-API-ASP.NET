@@ -1,0 +1,58 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+
+# Rider settings
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Entity Framework Migrations binaries
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# Environment files
+*.env
+*.local
+appsettings.*.json
+secrets.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.db
+*.sqlite
+*.pdb
+
+# Package files
+packages/
+*.nupkg
+*.snupkg
+
+# Auto-generated files
+wwwroot/
+
+# Dotnet specific
+project.lock.json
+project.fragment.lock.json
+
+# Rider
+.idea/
+*.sln.iml
